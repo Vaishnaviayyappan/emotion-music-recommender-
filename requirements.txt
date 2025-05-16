@@ -1,0 +1,5 @@
+opencv-python
+deepface
+pafy
+youtube-dl
+python-vlc
